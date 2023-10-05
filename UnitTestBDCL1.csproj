@@ -49,9 +49,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CheckLeapYear.cs" />
     <Compile Include="HamKT.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitTest2.cs" />
+    <Compile Include="TestCheckLeapYear.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
